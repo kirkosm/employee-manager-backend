@@ -6,10 +6,10 @@ This is the backend part of the Employee Manager application, built with Java an
 
 ## Technologies Used
 
-- Java 17+
+- Java 24
 - Spring Boot
 - Spring Data JPA
-- PostgreSQL or H2
+- PostgreSQL
 - Maven
 
 ---
@@ -27,9 +27,9 @@ This is the backend part of the Employee Manager application, built with Java an
 
 ### Prerequisites
 
-- Java 17 or newer
+- Java 24
 - Maven
-- PostgreSQL (optional, H2 in-memory DB can be used for testing)
+- PostgreSQL
 
 ---
 

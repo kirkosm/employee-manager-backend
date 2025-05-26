@@ -48,10 +48,10 @@ Base URL: http://localhost:8080/employees
 
 Method	Endpoint	Description
 
-GET	/employees	         Get all employees
-GET	/employees/{id}   	 Get employee by ID
-POST	/employees	       Create a new employee
-PUT	/employees/{id}	     Update an existing employee
-DELETE	/employees/{id}	 Delete an employee
+GET	/employees Get all employees
+GET	/employees/{id} Get employee by ID
+POST	/employees Create a new employee
+PUT	/employees/{id} Update an existing employee
+DELETE	/employees/{id} Delete an employee
 
 Make sure the frontend is running at http://localhost:3000

@@ -1,4 +1,4 @@
-# 🧑‍💼 Employee Manager
+# Employee Manager
 
 A full-stack web application to manage employees — built with **Spring Boot** (backend) and **React** (frontend). Supports full **CRUD** operations with a modern, responsive interface.
 

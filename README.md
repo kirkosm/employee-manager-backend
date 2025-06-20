@@ -55,3 +55,13 @@ PUT	/employees/{id} Update an existing employee
 DELETE	/employees/{id} Delete an employee
 
 Make sure the frontend is running at http://localhost:3000
+
+![Welcome](https://raw.githubusercontent.com/kirkosm/aiassistant-frontend/6b4af77507636781a845b1f956981b40cf3f018a/Welcome!.png)
+
+![Login Page](https://raw.githubusercontent.com/kirkosm/aiassistant-frontend/6b4af77507636781a845b1f956981b40cf3f018a/Log%20in.png)
+
+![Sign Up](https://raw.githubusercontent.com/kirkosm/aiassistant-frontend/6b4af77507636781a845b1f956981b40cf3f018a/Sign%20up.png)
+
+![Chat](https://raw.githubusercontent.com/kirkosm/aiassistant-frontend/6b4af77507636781a845b1f956981b40cf3f018a/Chat.png)
+
+![Settings](https://raw.githubusercontent.com/kirkosm/aiassistant-frontend/6b4af77507636781a845b1f956981b40cf3f018a/Settings.png)
